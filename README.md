@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me:  
-Twitter: @_nicole_codes_
-
 Email: nicolemgustafson@protonmail.com
 
 <!---
